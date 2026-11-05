@@ -1,0 +1,54 @@
+       30     Mathematics VIII
+
+
+             By long division method we have                       3 5.000 (1.666
+                                                                 3
+                                                                   20
+              5
+     Therefore   = 1.666...                                           18
+              3
+                                                                    20
+                  5                                                18
+   We write this as  = 1.6 the bar on ‘6’ in the decimal part indicates it is
+                  3                                                 20
+      recurring.                                                         18
+   We observe that in the above division the same remainder is repeating itself       2
+
+     and the digit 6 in the quotient is repeated.
+
+                           1
+     Consider the rational number
+                           7                        7 10.00000000(0.14285714
+                                                       7
+          By long division method
+                                                         30
+                                                        28
+                                                         20
+                                                         14
+                                                          60
+                                                          56
+                                                           40
+                                                           35     TELANGANA50
+                                                           49
+                                                            10
+                                                            7
+          1                                                  30
+          = 0.142857142857....
+          7                                                  28
+                                                             2
+          1
+           = 0.142857 . The bar on decimal part 142857 indicates that these digits are repeating
+          7
+      in the same order.
+
+    The above examples are illustrating the representation of rational numbers in the form of non-SCERT
+     terminating recurring decimals or we call them as non-terminating repeating decimals.
+
+                     1  17        20          Try to express     ,   ,11 and     in decimal form
+                     3   6  9     19
+
+         1           17            11             20
+          =          =            =            =
+          3            6             9             19
+
+                        Free Distribution by T.S. Government 2020-21

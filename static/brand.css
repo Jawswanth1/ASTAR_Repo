@@ -1,0 +1,44 @@
+/* ASTAR presentation identity. Learning content remains monochrome. */
+:root{--brand-purple:#636363;--brand-ink:#111111;--brand-paper:#ececec;--line:#cecece;--muted:#5f5f5f}
+body{background:var(--brand-paper);font-family:Arial,sans-serif;color:var(--brand-ink)}
+.rail{background:#0c0c0c;color:#ececec;border-right:1px solid #333333}
+.brand{display:block;background:#ffffff;border-radius:3px;padding:0;overflow:hidden}
+.brand img{display:block;width:100%;height:auto}
+.rail-label,.rail-bottom,.rail-note p{color:#b6b6b6}
+.rail nav a{color:#dbdbdb;border-radius:3px}
+.rail nav a.active{background:#636363;color:#ffffff}
+.rail nav a:hover{background:#2e2e2e;color:#ffffff}
+.rail-note{color:#ececec}.status-dot{background:#9c9c9c}
+.topbar{background:#ececec;border-bottom:1px solid #c4c4c4}
+.topbar .pill{border-color:#b3b3b3;color:#404040}
+.page-heading{background:linear-gradient(125deg,#080808,#181818);color:#ececec;margin:-5px 0 30px;padding:36px;border-radius:3px;align-items:center}
+.page-heading h1{font-family:'Arial Black',Arial,sans-serif;font-weight:900;text-transform:uppercase;font-size:clamp(29px,3.2vw,46px);line-height:1.05;letter-spacing:-1.5px}
+.page-heading .eyebrow{color:#a6a6a6;letter-spacing:1.4px}
+.page-heading .subtitle{color:#c5c5c5;max-width:650px;line-height:1.65}
+.workspace button.primary,.workspace .tabs button.active{background:#515151;border-color:#515151;color:#ffffff}
+.workspace button.primary:hover{background:#3f3f3f}
+.stats{gap:0;border-top:1px solid #b8b8b8;border-bottom:1px solid #b8b8b8}
+.stat{background:transparent;border:0;border-right:1px solid #b8b8b8;border-radius:0}
+.stat:last-child{border-right:0}.stat strong{font-family:'Arial Black',Arial,sans-serif;color:#131313}
+.stat small{color:#5a5a5a;letter-spacing:.6px}
+.book-card,.panel,.triage-card{border-radius:3px;background:#f8f8f8;border-color:#cdcdcd;box-shadow:none}
+.book-cover{background:#171717;color:#ececec;min-height:120px}
+.book-cover .pill{background:#262626;color:#dddddd;border-color:#6b6b6b}
+.book-emblem{color:#9e9e9e}.section-row h2{font-weight:800;text-transform:uppercase;letter-spacing:-.5px}
+.callout{border-radius:3px;background:#141414;color:#eaeaea;border-color:#141414}
+.callout p{color:#c2c2c2}.callout .symbol{color:#9e9e9e}
+.triage-card .pill{background:#ebebeb;color:#414141;border-color:#c3c3c3}
+.field input,.field select,.field textarea,.dropzone{background:#fdfdfd;border-color:#c4c4c4}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #7a7a7a;outline-offset:3px}
+/* Scoped overrides protect the student's e-paper reading experience. */
+.reader,.standalone{--muted:#626262;--line:#d4d4d4;color:#171717}
+.reader{background:#f7f7f7}.reader .circle-item{background:#ffffff;border-color:#cccccc}
+.reader button.primary,.reader .reader-mode .active{background:#171717;border-color:#171717;color:#ffffff}
+.standalone{background:#f4f4f4}.standalone .offline-header{background:#111111;color:#f0f0f0;border:0}
+@media(max-width:720px){.page-heading{padding:24px}.page-heading h1{font-size:30px}.brand{width:140px;flex-shrink:0}.rail{gap:10px}.rail nav a{padding:8px 6px}.stat{padding:14px 9px}.stat small{font-size:8px}}
+
+.brand img{filter:grayscale(1)}
+.structure-controls{display:flex;gap:12px;flex-wrap:wrap;margin:20px 0}.structure-controls label{display:flex;gap:6px;align-items:center}.structure-controls input{width:75px}.structure-controls select{max-width:320px}.structure-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px}.source-overlay{position:relative}.source-overlay img{width:100%;display:block}.source-box{position:absolute;border:2px dashed #111;background:#0000000a;pointer-events:none}.source-text{white-space:pre-wrap;overflow-wrap:anywhere;max-height:400px;overflow:auto;font:15px/1.7 Arial,sans-serif}.structure-layout select{max-width:100%}.structure-layout .actions input{min-width:0;max-width:100%}@media(max-width:900px){.structure-layout{grid-template-columns:1fr}.structure-controls select{max-width:240px}}
+button,input,select{min-height:44px}
+.relationship-list{max-height:320px;overflow:auto;border:1px solid #ccc;padding:12px;margin-bottom:16px}.relationship-list button{margin-left:8px}.relationship-list p{padding-bottom:12px;border-bottom:1px solid #ddd}
+.page-heading{background:#181818}

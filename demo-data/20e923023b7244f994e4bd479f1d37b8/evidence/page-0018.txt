@@ -1,0 +1,54 @@
+        6     Mathematics VIII
+
+
+     Complete the following table with necessary arguements and relevant examples.
+
+        Numbers                             Operations
+
+                        Addition         Subtraction    Multiplications  Division
+
+      Whole numbers   Closed since     Not closed     Closed         Not closed
+                        a + b is a whole   since 5−7 = −2 since − −  −    since 5 ÷8 =
+                                                                 5
+                      number for any    which is not                       which
+                                                                 8
+                      two whole        a whole number − −  −            is not a whole
+                      numbers a and b                                   number.
+                      example − −
+
+        Integers                          Closed                       Not closed
+                                         Since a – b is an − −  −          since
+                                                integer for any
+                                     two integers a  − −  −       − −  −
+                   − −  −         and b example.
+
+
+        (ii)   Rational numbers - Closure Property
+            (a) Addition
+                                   2  5
+          Consider two rational numbers      ,
+                                   7  8
+          2  5      16 + 35      51
+          +   =          =          7  8        56 TELANGANA56
+                 51
+         The result     is again a rational number
+                 56
+                ⎛ − 19 ⎞         8 +                ⎜     ⎟ = ______ Is it a rational number?
+                ⎝ 2  ⎠                                   ∈ belongs to,
+          2   −2
+           +   = ______ Do you get a rational number?   Let A = {1, 2, 3}
+          7    7
+                                                  The element 3 is in A and it is written         Check this for few more in the following pairs.
+                                                             as 3∈A and we read it as 3 belongs            5      1    7   2
+         3 +     ,  0 +    ,    +                            to A.
+            7      2    2   7
+                                   ∀ for allSCERTWe observe that the sum of any two rational numbers is
+     again a rational number. Thus we can say that rational  ∀ is the symbol for all or for every.
+    numbers are closed under addition. Hence (a + b) is a
+                                                                         If we write ∀ a, b ∈Q, it means      rational number for any two rational numbers a and b,
+                                                               for all a, b of Q       i.e. ∀a, b ∈ Q ; (a + b) ∈ Q.
+
+
+
+
+                        Free Distribution by T.S. Government 2020-21

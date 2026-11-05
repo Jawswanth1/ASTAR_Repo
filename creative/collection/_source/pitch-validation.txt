@@ -1,0 +1,1 @@
+Finalizer completed validation and import checks, then Windows denied its final hardlink. Copied the validated candidate unchanged.

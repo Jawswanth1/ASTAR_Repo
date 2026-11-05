@@ -1,0 +1,10 @@
+{
+  "description": "Prior session-only conversion; structural accuracy was not measured.",
+  "sourceSHA256": "145db19b3157b941900f22e619c9e2c0bac13b712bf8928bc70ae2af6123ed02",
+  "pages": 374,
+  "units": 15,
+  "lessons": 61,
+  "hasStructuralModel": false,
+  "questionBlocks": 256,
+  "warning": "Question-block count is not recall or correctness. Original questions may exist in text or source images."
+}

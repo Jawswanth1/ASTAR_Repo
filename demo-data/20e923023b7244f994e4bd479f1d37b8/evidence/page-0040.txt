@@ -1,0 +1,54 @@
+       28     Mathematics VIII
+
+    Example 8:   Write any five rational numbers between −3 and 0.
+
+                      30          0
+     Solution:    −3 = −    and 0 =     so
+                      10          10
+
+                  29   28   27         2    1
+               −      , −      , −      ,........., −     , −    lies between -3 and 0.
+                  10   10   10        10   10
+
+            We can take any five of these.
+
+
+                                      Exercise - 1.2
+
+      1.    Represent these numbers on the number line.
+
+            9                 7
+              (i)                        (ii) −
+            7                 5
+
+                    2  5  − 9      2.    Represent −     ,      ,    on the number line.
+                   13 13  13
+
+                                                5
+      3.    Write five rational numbers which are smaller than     .
+                                                6
+
+      4.    Find 12 rational numbers between -1 and 2.
+
+                                   2     3      5.    Find a rational number betweenTELANGANAand     .
+                                   3     4
+
+           [Hint : First write the rational numbers with equal denominators.]
+
+                                      3     5
+      6.    Find ten rational numbers between −   and
+                                      4     6
+
+     1.6    Decimal representation of Rational numbers
+
+                                          p
+   We know every rational number is in the form of    where q ≠ 0 and p, q are integers. Let us                                          qSCERTsee how to express a rational number in decimal form.
+    To convert a rational number into decimal by division method.
+                          25
+     Consider a rational number       .
+                          16
+
+
+
+
+                        Free Distribution by T.S. Government 2020-21

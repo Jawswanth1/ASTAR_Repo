@@ -1,0 +1,40 @@
+       36     Mathematics VIII
+
+
+            What we have discussed
+
+                    1.    Rational numbers are closed under addition, subtraction and multiplication.
+
+                    2.   The addition and multiplications are
+                                    (i) Commutative for rational numbers
+                                       (ii) Associative for rational numbers
+                    3.    ‘0’ is the additive identity for rational numbers.
+                    4.    ‘1’ is the multiplicative identity for rational numbers.
+                    5.  A rational number and its additive inverse are opposite in their sign.
+                    6.   The multiplicative inverse of a rational number is its reciprocal.
+                    7.    Distributivity of rational numbers a,b and c,
+                      a ( b + c ) = ab + ac and a ( b – c ) = ab – ac
+                    8.    Rational numbers can be represented on a number line
+                    9.    There are infinite rational numbers between any two given rational numbers.
+                   The concept of mean help us to find rational numbers between any two
+                           rational numbers.
+                  10.  The decimal representation of rational numbers is either in the form of
+                         terminating decimal or non-terminating recurring decimals.     TELANGANA      Can you find?
+
+      Guess a formula for an. Use the subdivided unit square below to give a visual justification of
+       your conjecture.
+
+                                          1
+                                          4
+                               1
+                        1                   1                               2
+                                       1    16
+                                       8SCERT
+
+                                    1
+                1      1  1      1  1  1          1  1      1
+      Hint : a1 =    , a 2 =  +    , a3 =  +  +    ......... a n =  +  + .... +  n                2      2  4      2  4  8          2  4      2
+                 1        1        1
+           a1 = 1 −    , a 2 = 1 −    , a3 = 1 −   .........  then an = ?                 2        4        8
+
+                        Free Distribution by T.S. Government 2020-21

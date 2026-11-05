@@ -1,0 +1,5 @@
+PyMuPDF>=1.26.0,<2
+Pillow>=10,<13
+# Optional: scanned-page OCR also needs a locally installed Tesseract executable
+# and language files. The application still preserves scanned pages without OCR.
+pytesseract>=0.3.10,<0.4

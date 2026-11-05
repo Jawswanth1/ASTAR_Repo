@@ -1,0 +1,45 @@
+       12     Mathematics VIII
+
+
+     1.2.3 Associative Property
+                                                           The associative property states that
+                                                                                                     if you have to add three numbers, you
+     Recall the associative property of                                                                  can add the first two numbers and
+    whole numbers with respect to four                         then add the third or you add the
+     operations, i.e. addition, subtraction,                      second and third number in the
+      multiplication & division.                                      beginning and then add the first to
+                                                                          the sum. The result will be the same
+                                                                                                     i.e. (3 + 2) + 5 or 3 + (2 + 5).
+
+       (i) Whole numbers
+     Complete the table with necessary illustrations and remarks.
+
+        Operation        Examples with whole numbers          Remark
+
+         Addition              Is 2 + (3 + 0) = (2 + 3) + 0 ?
+                        2 + (3 + 0) = 2 + 3 = 5
+                             (2 + 3) + 0 = 5 + 0 = 5         — — —
+            ⇒ 2 + (3 + 0) = (2 + 3) + 0       — — —
+                           a + (b + c) = (a + b) + c
+                                for any three whole numbers a, b, c
+          Subtraction         (2−3) – 2 = ?; 2−(3−2) = ?              Subtraction is not
+                                 Is (2−3) −2 = 2−(3−2) ?                associative
+           Multiplication   — — — — — —                  Multiplication is
+            — — — — — —                  associative
+          Division               Is 2 ÷ (3 ÷ 5) = (2 ÷ 3) ÷ 5?     TELANGANA3      5  10                         2 ÷ ( 3 ÷ 5 ) = 2 ÷  = 2 ×  =         Division is not associative
+                                      5      3   3
+                                    2      2  1   2                                      ( 2 ÷ 3 ) ÷ 5 =  ÷ 5 =  ×  =
+                                    3      3  5  15
+                        2 ÷ ( 3 ÷ 5 ) ≠ ( 2 ÷ 3 ) ÷ 5
+
+        (ii)   Integers
+
+           Recall associativity for integers under four operations.
+
+          Complete the following table with necessary remarks.SCERT
+
+
+
+
+
+                        Free Distribution by T.S. Government 2020-21

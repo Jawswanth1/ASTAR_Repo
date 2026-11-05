@@ -1,0 +1,49 @@
+                                                                             Rational Numbers    3
+
+
+                 Try These
+
+                                5
+                       1.   Hamid says    is a rational number and 5 is only a natural number.
+                                3
+                         Sakshi says both are rational numbers. Who do you agree with?
+                       2.   Give an example to satisfy the following statements.
+
+                               (i)    All natural numbers are whole numbers but all whole numbers need
+                             not be natural numbers.
+                               (ii)   All whole numbers are integers but all integers are not whole numbers.
+                                (iii)   All integers are rational numbers but all rational numbers need not be
+                                   integers.
+
+   We have already learnt basic operations on rational numbers in earlier classes. Let us explore
+    some properties of operations on rational numbers.
+
+      1.1  Operations on Rational numbers
+
+   We have already discussed addition and subtraction of Rational numbers in 7th class. Let us
+      recall them by doing the following problems.
+          Solve
+                 9   ⎛ − 13 ⎞                3   2
+                   (i)       + ⎜     ⎟                 (ii)    1  + 4
+                 10   ⎝ 8  ⎠                5   7     TELANGANA               − 7   ⎛ − 9 ⎞              − 11  ⎛ 1 ⎞
+                      (iii)      −⎜    ⎟              (iv)       −⎜   ⎟
+                 16   ⎝ 20 ⎠                14   ⎝ 21 ⎠
+                                                   − 7  1  − 3
+               (v)    Find the additive inverse of the following numbers :      ,       ,       , 8
+                                                        6  10   4
+     1.1.1 Multiplication of Rational Numbers
+
+    Now, we learn how to multiply the rational numbers. In class 7 we have learnt how to multiply
+      fractional numbers. We follow a similar process for multiplication of rational numbers also.
+
+                            2    5
+     Consider the rational numbers   and     . These are also fractional numbers.
+                            3    7SCERT
+               2    5
+   We multiply   and
+               3    7
+
+     2  5  2 × 5  10             ⎛ Product of numerator  ⎞      ×  =    =                                     ⎜                          ⎟     3  7  3 × 7  21            ⎝ Product of denominator ⎠
+
+
+                                        Free Distribution by T.S. Government 2020-21

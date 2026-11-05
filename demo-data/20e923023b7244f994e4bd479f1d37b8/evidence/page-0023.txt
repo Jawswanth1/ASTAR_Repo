@@ -1,0 +1,54 @@
+                                                                             Rational Numbers    11
+
+
+    Thus we can say that subtraction is not commutative in the set of rational numbers .
+     a – b ≠ b – a for any two rational numbers a and b.
+                                               5
+      (c)   Multiplication: Take two rational numbers 2, −
+                                               7
+           − 5  − 10    − 5     − 10             − 5     5         2 ×   =          ;     × 2 =        therefore  2 ×   = −× 2
+             7    7      7       7                7     7
+          −1  ⎛ −3 ⎞   ⎛ − 3 ⎞   ⎛ −1 ⎞
+             Is   × ⎜    ⎟ = ⎜    ⎟ × ⎜    ⎟ ?
+            2   ⎝ 4 ⎠   ⎝ 4 ⎠   ⎝ 2 ⎠
+
+         Check for some more rational numbers .
+
+       We can conclude that multiplication is commutative in the set of rational numbers.
+
+               It means a × b = b × a for any two rational numbers a and b.
+               i.e. ∀ a, b ∈ Q, a × b = b × a
+
+      (d)   Division
+
+                 7  14    14   7
+             Is       ÷    =    ÷    ?
+                 3   9     9    3
+
+                              1      3                                 2      1
+         7  14    7/    9/    3      14   7   14   3/   2
+          ÷    =   ×    =    and    ÷   =    ×   =          3   9    3/   14   2       9   3    9/    7   3
+                              1      2                                 3      1          7   14    14     7 TELANGANA
+           ÷    ≠     ÷
+          3    9     9     3
+         Thus we can say that division of rational numbers is not commutative in the set of rational
+         numbers .
+
+          Do This
+
+             Complete the following table.
+
+                                            commutative with respect to
+               Numbers
+                                    Addition     Subtraction    Multiplication      DivisionSCERTNatural numbers       Yes       No           Yes    — — —
+
+            Whole numbers  — — —  — — —   — — —      No
+
+                Integers     — — —  — — —   — — —   — — —
+
+                Rational numbers  — — —  — — —   — — —      No
+
+
+
+
+                                        Free Distribution by T.S. Government 2020-21

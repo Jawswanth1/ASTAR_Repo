@@ -1,0 +1,56 @@
+       20     Mathematics VIII
+
+
+            Complete the following table
+
+                                                  Multiplicative properties
+              Numbers
+                                 Closure  Commutative   Associative   Existence  Existence
+                                                                         of Identity of Inverse
+
+               Rational Numbers   Yes   — —    — —   — —  — —
+
+                Integers     — —       Yes    — —   — —  — —
+
+            Whole Numbers — —   — —         Yes   — —  — —
+
+               Natural Numbers — —   — —    — —       Yes  — —
+
+
+                        2  3   ⎛ − 6 ⎞    ⎛ − 13 ⎞
+    Example 1.   Simplify   +  + ⎜    ⎟ + ⎜     ⎟                        5  7   ⎝ 5 ⎠    ⎝ 7  ⎠
+     Solution:     Rearrange the given fractions keeping like fractions together.
+
+                 2  3   ⎛ − 6 ⎞    ⎛ − 13 ⎞   2   3   6   13
+                 +  + ⎜    ⎟ + ⎜     ⎟ =  +  −  −                 5  7   ⎝ 5 ⎠    ⎝ 7  ⎠   5   7   5   7
+
+                                ⎛ 2  6 ⎞    ⎛ 3   13 ⎞
+                    = ⎜  −  ⎟ + ⎜  −    ⎟  (by commutative law of addition)                                ⎝ 5  5 ⎠    ⎝ 7   7 ⎠
+
+                         2 − 6   3 − 13                    = TELANGANA+
+                          5      7
+
+                       − 4   −10   − 4  10
+                    =    +     =   −
+                          5    7     5    7
+
+                                      (−×4  7) − (10 × 5)  −28 − 50  −78
+                    =              =       =
+                                35           35     35
+
+    Example 2:   Write the additive inverses of each of the following rational numbers.
+
+                       2          − 11          7          − 2
+                              (i)                     (ii)                     (iii)               (iv)
+                       7            5         − 13         −3SCERT
+                                          2   − 2
+     Solution :       (i)    The additive inverse of      is
+                                          7    7
+
+                        2  ⎛ − 2 ⎞   2 − 2
+                  because  + ⎜    ⎟ =     = 0
+                        7   ⎝ 7 ⎠    7
+
+
+
+                        Free Distribution by T.S. Government 2020-21

@@ -1,0 +1,53 @@
+       16     Mathematics VIII
+
+
+          Do This
+
+             Complete the following table
+
+                                                  Associative under
+              Numbers
+                                Addition    Subtraction     Multiplication  Division
+
+               Natural numbers     Yes       No                      . . . . .              . . . . .
+
+            Whole numbers         . . . . .              . . . . .                    . . . . .      No
+
+                Integers                      . . . . .      No             Yes               . . . . .
+
+                Rational numbers        . . . . .              . . . . .                    . . . . .              . . . . .
+
+     1.2.4 The Role of Zero
+
+                                      1                   1
+    Can you find a number, when it is added to   gives the same number   ?
+                                      2                   2
+    When the number ‘0’ is added to any rational number, the rational number remains the same.
+     For example
+
+         1 + 0 = 1 and 0 + 1 = 1
+         −2 + 0 = −2 and 0 + (−2) = −2
+
+          1        1         1    1           + 0 =   and 0 +   =
+          2        2         2    2     TELANGANA
+     For this reason we call ‘0’ as an identity element of addition or “additive identity”.
+
+      If a represents any rational number then  a + 0 = a and 0 + a = a
+
+    Does the set of natural numbers have additive identity ?
+
+     1.2.5 The Role of 1
+
+       Fill in the following blanks :
+
+          3 ×     = 3      and           × 3 =  3SCERT
+              - 2 ×     = − 2   and            × −2 = −2
+
+          7         7                        7    7
+           ×    =         and           ×    =
+          8         8                        8    8
+
+    What observations have you made in the above multiplications?
+
+
+                        Free Distribution by T.S. Government 2020-21

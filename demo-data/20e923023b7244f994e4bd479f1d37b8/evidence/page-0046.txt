@@ -1,0 +1,56 @@
+       34     Mathematics VIII
+
+
+                    43                                    43
+                   x =                           Hence 4.7 =      .
+                    9                                     9
+      Alternative Method :   4.7 =  4 + 0.7
+
+                                 7
+                       =  4 +
+                                 9
+
+                              9 × 4 + 7
+                       =
+                                 9
+
+                              43
+          ∴ 4.7   =
+                               9
+
+                                                     p
+    Example 11:  Express the mixed recurring decimal 15.732 in   form.                                                    q
+
+     Solution :    Let x = 15.732
+
+                x =15.7323232....  ---------------(i)
+
+                   Since two digits 32 are repeating therefore
+
+                    the periodicity of the above decimal is two.
+
+               So multiply (i) both sides by 100, we get
+
+                100 x = 1573.2323....  -------------(ii)                    Subtracting (i) fromTELANGANA(ii), we get
+
+                100 x  =      1573.232323....
+
+                   x  =        15.732323....
+
+                 99 x  =      1557.50000
+
+                               1557.5    15575
+                  x   =           =
+                              99      990
+
+                                      15575
+                    =     15.732 =
+                                       990SCERT
+     Think Discuss and Write
+
+     Convert the decimals  0.9, 14.5 and 1.24  to rational form. Can you find any easy method
+     other than formal method?
+
+
+
+                        Free Distribution by T.S. Government 2020-21

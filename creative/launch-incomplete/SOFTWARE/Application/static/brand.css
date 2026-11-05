@@ -1,0 +1,38 @@
+/* ASTAR presentation identity. Learning content remains monochrome. */
+:root{--brand-purple:#6852ff;--brand-ink:#111111;--brand-paper:#f0ece4;--line:#d2cec7;--muted:#615d66}
+body{background:var(--brand-paper);font-family:Arial,sans-serif;color:var(--brand-ink)}
+.rail{background:#0c0c0e;color:#f0ece4;border-right:1px solid #333}
+.brand{display:block;background:#fff;border-radius:3px;padding:0;overflow:hidden}
+.brand img{display:block;width:100%;height:auto}
+.rail-label,.rail-bottom,.rail-note p{color:#b8b4c4}
+.rail nav a{color:#ddd9e5;border-radius:3px}
+.rail nav a.active{background:#6852ff;color:#fff}
+.rail nav a:hover{background:#302b40;color:#fff}
+.rail-note{color:#f0ece4}.status-dot{background:#9e91ff}
+.topbar{background:#f0ece4;border-bottom:1px solid #c9c4bc}
+.topbar .pill{border-color:#b8addf;color:#4933ad}
+.page-heading{background:linear-gradient(125deg,#08080a,#19171e);color:#f0ece4;margin:-5px 0 30px;padding:36px;border-radius:3px;align-items:center}
+.page-heading h1{font-family:'Arial Black',Arial,sans-serif;font-weight:900;text-transform:uppercase;font-size:clamp(29px,3.2vw,46px);line-height:1.05;letter-spacing:-1.5px}
+.page-heading .eyebrow{color:#a99cff;letter-spacing:1.4px}
+.page-heading .subtitle{color:#c8c3cf;max-width:650px;line-height:1.65}
+.workspace button.primary,.workspace .tabs button.active{background:#5940df;border-color:#5940df;color:#fff}
+.workspace button.primary:hover{background:#4730be}
+.stats{gap:0;border-top:1px solid #bdb7ae;border-bottom:1px solid #bdb7ae}
+.stat{background:transparent;border:0;border-right:1px solid #bdb7ae;border-radius:0}
+.stat:last-child{border-right:0}.stat strong{font-family:'Arial Black',Arial,sans-serif;color:#141215}
+.stat small{color:#5e5863;letter-spacing:.6px}
+.book-card,.panel,.triage-card{border-radius:3px;background:#faf8f4;border-color:#d2cdc5;box-shadow:none}
+.book-cover{background:#18161d;color:#f0ece4;min-height:120px}
+.book-cover .pill{background:#292431;color:#e0d9ff;border-color:#72658b}
+.book-emblem{color:#a493ff}.section-row h2{font-weight:800;text-transform:uppercase;letter-spacing:-.5px}
+.callout{border-radius:3px;background:#151319;color:#eee8f6;border-color:#151319}
+.callout p{color:#c6bfce}.callout .symbol{color:#a493ff}
+.triage-card .pill{background:#eee8ff;color:#4c359d;border-color:#cbbded}
+.field input,.field select,.field textarea,.dropzone{background:#fffdfa;border-color:#c8c1d1}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #806bff;outline-offset:3px}
+/* Scoped overrides protect the student's e-paper reading experience. */
+.reader,.standalone{--muted:#626262;--line:#d4d4d4;color:#171717}
+.reader{background:#f7f7f4}.reader .circle-item{background:#fff;border-color:#ccc}
+.reader button.primary,.reader .reader-mode .active{background:#171717;border-color:#171717;color:#fff}
+.standalone{background:#f4f4f0}.standalone .offline-header{background:#111;color:#f0f0eb;border:0}
+@media(max-width:720px){.page-heading{padding:24px}.page-heading h1{font-size:30px}.brand{width:140px;flex-shrink:0}.rail{gap:10px}.rail nav a{padding:8px 6px}.stat{padding:14px 9px}.stat small{font-size:8px}}

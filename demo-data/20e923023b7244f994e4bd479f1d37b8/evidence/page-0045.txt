@@ -1,0 +1,49 @@
+                                                                             Rational Numbers    33
+
+
+               So we multiply both sides of (i) by 10 and we get
+
+                 10x = 4.44 .... ----------------(ii)
+
+                    Subtracting (i) from (ii)
+                     10 x = 4.444......
+                       x = 0.444......
+
+                      9x =  4.000......
+                                                                Observe                           4
+                          x =
+                           9                                     4                                                                      0.4 =
+                                 4                               9
+                    Hence  0.4 =
+                                 9                               5
+                                                                     0.5 =
+     Solution (ii):  0.54                                             9
+                                                                 54
+                        let x = 0.54                                        0.54 =
+                                                                 99
+        ⇒ x = 0.545454....   ------------------ (i)
+                                                                   745
+                   here the periodicity of the decimal is two.              0.745 =
+                                                                  999
+               So we multiply both sides of (i) by 100, we get
+                100x = 54.5454....   ------------------- (ii)
+             On subtracting (i) from (ii)
+                 100x = 54.5454 ......
+                      x =  0.5454  .....     TELANGANA
+                 99x = 54.0000......
+
+                    54             54                   x =      . Hence 0.54 =        .
+                    99             99
+
+     Solution (iii) : 4.7
+                        let x = 4.7
+                  x = 4.777....    ---------------- (i)
+                   here the periodicity of the decimal is one.
+               So multiply both sides of (i) by 10, we getSCERT                 10x = 47.777.... ---------------- (ii)
+                    Subtracting (i) from (ii) we get
+                 10x = 47.777 .....
+                    x =  4.777  .....
+                  9x = 43.000....
+
+
+                                        Free Distribution by T.S. Government 2020-21

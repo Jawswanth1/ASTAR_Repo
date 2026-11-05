@@ -1,0 +1,57 @@
+        4     Mathematics VIII
+
+
+   Now consider −×2  5
+                 3  7
+
+      −×2  5  −10
+   We get      =
+           3 × 7    21
+
+                         − 10  14
+     Let us do one more example    ×
+                           21  25
+
+
+                                           28
+    − 10  14  − 10 × 14   −140   −28  − 4
+        ×   =       =      =    =
+     21  25   21 × 25    525   105   15
+                                           105
+
+    Or we can do like this also.
+
+
+            2       2
+    − 10   14   −4
+        ×   =
+        321     525   15
+
+             Do this
+
+                       18  − 33                − 7  − 1
+                              (i)      ×                             (ii)      ×
+                       11  45                  17  10     TELANGANA
+                     −105  18                 13  100
+                                  (iii)        ×                   (iv)       ×
+                        72   15                120  16
+
+
+     1.1.2 Division of Rational Numbers
+
+     Observe the following
+
+     2  5
+      ×  = 1
+     5  2
+
+   −×9  11 = 1SCERT     11  − 9
+
+     Here we notice that the product is ‘1’. If the product of any two rational numbers is ‘1’ are called
+                                       2    5  − 9    11
+     the multiplicative inverse of each other. Here   and    ;    and     are multiplicative inverse
+                                       5    2  11    − 9
+     of each other.
+
+
+                        Free Distribution by T.S. Government 2020-21

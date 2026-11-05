@@ -1,0 +1,53 @@
+                                                                             Rational Numbers    5
+
+
+                              3    9   1     Write multiplicative inverse of −, 11,    ,         . In class 7 we have learnt to divide fractional
+                             7     5 − 17
+     numbers. We follow a similar process for division of Rational numbers.
+
+                           3     7
+     Consider the rational number   and    These are also fractional numbers.                           4     11.
+
+             3     7
+   We devide   with             4     11.
+
+           3  7   3  11                         7
+           ÷   =  ×           (Multiplicative inverse of           4  11  4  7                           11)
+
+            3 × 11   33    5
+          =      =   =             4 × 7   28  128
+
+      Let’s do the following examples :
+
+               −5  3  − 5  4                        3
+                   (i)       ÷  =   ×         (Multiplicative inverse of    )
+                 9   4   9   3                        4
+
+           −×5  4  −20
+               =      =
+                   9 × 3    27
+
+
+                                                     6
+               −12   ⎛ 2 ⎞  − 12   ⎛ − 7     6                             2                  ÷ ⎜    ⎟ =TELANGANA× ⎜  ⎞=⎟     = 2                     (ii)                                                      (Multiplicative inverse of
+                                                                         7                 21   ⎝ −7 ⎠     321   ⎝ 2  ⎠    3                     −)
+
+             Do this
+
+                       8    2                      18  ⎛ −72⎞
+                              (i)       ÷                            (ii)       ÷⎜   ⎟
+                       5    3                      25 ⎝ 75 ⎠
+
+                     −125  50                    − 512    − 1024
+                                  (iii)        ÷                   (iv)    Divide      with
+                         64   16                      441       21
+
+     1.2   Properties of Rational numbersSCERT
+     1.2.1 Closure property
+        (i)   Whole numbers and Integers
+          Let us recall the operations under    If the sum of two whole numbers is also a whole
+     which the whole numbers and integers are   number, then, we say that the set of whole numbers
+      closed.                                       satisfy closure property under addition.
+
+
+                                        Free Distribution by T.S. Government 2020-21

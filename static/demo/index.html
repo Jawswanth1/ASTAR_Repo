@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ASTAR · Chapter One Lab</title>
+  <link rel="stylesheet" href="/demo/style.css">
+</head>
+<body>
+  <aside class="rail">
+    <a class="wordmark" href="/demo/" aria-label="ASTAR Chapter One Lab">ASTAR<span>✳</span></a>
+    <div class="rail-kicker">LEARNING SYSTEMS</div>
+    <nav aria-label="Workspace">
+      <button class="nav active" data-tab="simulator"><span>▣</span> Device simulator</button>
+      <button class="nav" data-tab="questions"><span>≡</span> Question catalogue <b id="q-count">—</b></button>
+      <button class="nav" data-tab="source"><span>▤</span> Source evidence</button>
+      <button class="nav" data-tab="audit"><span>✓</span> Extraction report</button>
+    </nav>
+    <div class="rail-rule"></div>
+    <button class="nav" id="upload-open"><span>＋</span> Import Chapter 1</button>
+    <a class="nav" href="/">↗ Textbook studio</a>
+    <a class="nav" href="/product/">◇ Engineering explorer</a>
+    <div class="rail-bottom"><span class="dot"></span> LOCAL WORKSPACE<p>Your textbook stays on this computer.</p><small>CHAPTER ONE LAB / 01</small></div>
+  </aside>
+  <div class="main-shell">
+    <header class="topbar"><span>Workspace <i>/</i> Chapter One Lab</span><div><span class="local-label">● OFFLINE FIRST</span><button class="quiet" id="export" disabled>↓ Device package</button></div></header>
+    <main>
+      <div id="notice" role="status" aria-live="polite"></div>
+      <div class="page-heading"><div><div class="eyebrow">FROM THE TEXTBOOK. TO THE DEVICE.</div><h1>A chapter. A learning journey.</h1><p>Source-faithful lessons, designed one e-paper screen at a time.</p></div><button class="primary" id="reference">Load SCERT demonstration <span>↗</span></button></div>
+      <section class="book-bar" id="book-bar"><div class="book-icon">1</div><div><strong>No textbook loaded</strong><p>Load the labelled SCERT reference or import your textbook.</p></div><span class="tag">CHAPTER 1 ONLY</span></section>
+      <section id="simulator" class="panel-view">
+        <div class="sim-grid">
+          <section class="device-panel">
+            <div class="panel-top"><div><span class="eyebrow">THE DEVICE</span><h2>Learning, without distraction.</h2></div><div class="segmented" aria-label="Simulator view"><button id="physical-view" class="selected" aria-pressed="true">Physical</button><button id="pixel-view" aria-pressed="false">Pixel view</button></div></div>
+            <div class="stage" id="stage">
+              <div id="device-holder" class="device-holder"><div class="device" id="device">
+                <div class="case-top"><span>ASTAR</span><span class="case-dot"></span></div>
+                <div class="display-bezel"><img id="display" width="400" height="300" alt="ASTAR 400 by 300 pixel e-paper display"><div id="refresh-flash"></div></div>
+                <div class="controls"><span class="device-caption">LEARN AT YOUR PACE</span><div class="physical-buttons"><button data-key="up" aria-label="Device UP">▲<small>UP</small></button><button data-key="down" aria-label="Device DOWN">▼<small>DOWN</small></button><button data-key="select" class="select-button" aria-label="Device SELECT">●<small>SELECT</small></button></div></div>
+              </div></div>
+            </div>
+            <div class="pixel-controls" id="pixel-controls" hidden><button data-key="up">▲ UP</button><button data-key="down">▼ DOWN</button><button data-key="select">● SELECT</button></div>
+            <div class="device-spec"><span><b>400 × 300</b> actual pixels</span><span><b>1 bit</b> monochrome</span><span><b>4.2″</b> display / ~6″ case</span></div>
+            <div class="keyboard-help"><span>⌨</span> <kbd>↑</kbd> <kbd>↓</kbd> to navigate <kbd>Enter</kbd> to select <span class="spacer"></span><label><input id="refresh" type="checkbox" checked> E-paper refresh</label></div>
+          </section>
+          <aside class="context-panel">
+            <div class="eyebrow">NOW ON SCREEN</div><h2 id="screen-title">Ready when you are.</h2><p id="screen-detail">Every lesson is rendered into a real, fixed-size black-and-white framebuffer.</p>
+            <div class="context-rule"></div><div id="screen-origin" class="tag">ASTAR SYSTEM</div><div id="screen-ref" class="source-ref"></div>
+            <div id="context-extra"></div>
+            <div class="progress-label"><span>Core lessons complete</span><b id="progress-value">0 / 5</b></div><div class="progress-track"><div id="progress-fill"></div></div>
+            <button class="wide secondary" id="resume" disabled>Continue learning <span>→</span></button>
+            <button class="wide quiet" id="device-home">Return to device menu</button>
+            <div class="context-rule"></div><a id="download-frame" class="text-link" hidden>↓ Current 1-bit PNG</a><a id="download-bin" class="text-link" hidden>↓ Raw framebuffer · 15,000 bytes</a>
+            <p class="small-note">Source tiles retain fractions, recurring bars and diagram labels. Overlapping tiles keep every region accessible.</p>
+          </aside>
+        </div>
+        <div class="journey-heading"><div><span class="eyebrow">THE CHAPTER PATH</span><h2>Five concepts. One connected story.</h2></div><span class="muted" id="journey-time">~30 minutes per core lesson</span></div>
+        <div class="lesson-grid" id="lessons"></div>
+        <div class="footnote"><span>↳</span><p>The core route is planned for about 150 minutes. Completing every original investigation and exercise takes additional time. ASTAR explanations are always labelled separately from textbook content.</p></div>
+      </section>
+      <section id="questions" class="panel-view" hidden>
+        <div class="section-heading"><div><div class="eyebrow">CONCEPTS BEFORE QUESTIONS</div><h2>The complete question map.</h2><p>Numbered exercises and embedded prompt groups, linked to the concepts they assess.</p></div><button class="secondary" id="catalogue-export">↓ Catalogue JSON</button></div>
+        <div class="filter-bar"><input type="search" id="question-search" placeholder="Search wording, original number or concept…" aria-label="Search questions"><select id="lesson-filter" aria-label="Filter by lesson"><option value="">All lessons</option></select><select id="type-filter" aria-label="Filter by source"><option value="">All sources</option><option value="exercise">Numbered exercises</option><option value="embedded">Embedded prompts</option></select></div>
+        <div id="question-summary" class="muted"></div><div class="question-list" id="question-list"></div>
+      </section>
+      <section id="source" class="panel-view" hidden>
+        <div class="section-heading"><div><div class="eyebrow">THE SOURCE OF TRUTH</div><h2>Always traceable to the page.</h2><p>Unmodified source evidence beside the extracted text and original device tiles.</p></div><a id="original-pdf" class="secondary" target="_blank" rel="noopener">Open original PDF ↗</a></div>
+        <div class="source-toolbar"><label>Chapter page <select id="source-page"></select></label><button id="source-device" class="secondary">Read this page on device →</button></div>
+        <div class="source-layout"><div class="source-page-wrap"><img id="source-image" alt="Original textbook page"></div><aside class="source-text"><span class="tag">NATIVE PDF EXTRACTION</span><p class="small-note">This is a search aid. Stacked fractions and recurring bars may lose their reading order here; the original image is authoritative.</p><pre id="source-text"></pre></aside></div>
+      </section>
+      <section id="audit" class="panel-view" hidden></section>
+    </main>
+    <footer><b>ASTAR</b><span>A little screen. A world to understand.</span><span>CHAPTER ONE LAB · LOCAL DEMONSTRATION</span></footer>
+  </div>
+  <dialog id="import-dialog"><form id="import-form"><div class="eyebrow">A NEW SOURCE</div><h2>Bring your textbook.</h2><p>Only Chapter 1 is processed. Automatic boundaries need Chapter 1 and Chapter 2 bookmarks; otherwise enter physical PDF page numbers.</p><label>Textbook PDF<input name="file" type="file" accept="application/pdf,.pdf" required></label><label>Book title (optional)<input name="title" placeholder="Title from the cover"></label><div class="form-row"><label>First PDF page<input name="start" type="number" min="1" placeholder="Auto"></label><label>Last PDF page<input name="end" type="number" min="1" placeholder="Auto"></label></div><p class="small-note">The SCERT reference has a curated concept and question map. Other books receive a provisional plan from their section headings and require teacher review. If headings cannot be read, the importer reports the problem.</p><div class="dialog-actions"><button class="quiet" type="button" id="import-cancel">Cancel</button><button type="submit" class="primary">Prepare Chapter 1 →</button></div></form></dialog>
+  <script src="/demo/app.js"></script>
+</body>
+</html>

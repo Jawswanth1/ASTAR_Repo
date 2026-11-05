@@ -1,0 +1,54 @@
+       32     Mathematics VIII
+
+
+     1.7   Conversion of decimal form into rational form
+
+     1.7.1 Converting terminating decimal into rational form
+
+     Consider a decimal number 15.75
+
+     Find the number of places after the decimal point in the given number. In 15.75 there are 2
+     decimals places.
+
+                               1575
+     Therefore 15.75 can be written as          . Now
+                                100
+
+            1575  1575 ÷ 5   315 ÷ 5   63
+               =       =       =
+            100   100 ÷ 5    20 ÷ 5    4
+            63
+                       is the rational form of 15.75.
+             4
+
+                                                   p
+    Example 9:   Express each of the following decimals in the    form                                                   q
+                          (i) 0.35          (ii) −8.005      (iii) 2.104
+                                                                        35
+     Solution:       (i) Since 0.35 has two places after decimal point. It is written as 0.35 =        .
+                                                                       100
+                                 35    35 ÷ 5    7
+                 Now,    0.35 =    =      =
+                                 100  100 ÷ 5   20     TELANGANA                           −8005    − 8005 ÷ 5    − 1601
+                           (ii) −8.005 =        =          =
+                              1000     1000 ÷ 5      200
+
+                            2104    2104 ÷ 4   526 ÷ 2   263
+                             (iii) 2.104 =      =         =       =
+                            1000    1000 ÷ 4    250 ÷ 2   125
+
+     1.7.2 Converting a non-terminating recurring decimal into rational form
+
+          Let us discuss the method of conversion by following example.
+
+    Example 10:  Express each of the following decimals numbers in the rational form.
+
+                          (i) 0.4            (ii) 0.54            (iii) 4.7SCERT
+     Solution (i):   0.4
+
+                        let  x = 0.4
+        ⇒  x = 0.444 ... ----------------(i)
+
+                   here the periodicity of the decimal is one.
+
+                        Free Distribution by T.S. Government 2020-21

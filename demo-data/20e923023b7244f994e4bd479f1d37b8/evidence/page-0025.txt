@@ -1,0 +1,43 @@
+                                                                             Rational Numbers    13
+
+
+
+        Operation         Integers with example                Remark
+
+         Addition              Is 2 + [(−3) + 5)] = [(2 + (−3)] + 5 ?
+
+                        2 + ⎡−                                     2 + [ −+3  5 ] = 2 + 2 = 4   — — — — —                                    ⎣(                              3) + 5 ⎤=⎦
+                                ⎡                                   5 = [ 2 − 3] + 5 = −+1  5 = 4                                ⎣ 2 + ( −                              3 ) ⎤⎦ +
+                          For any three integers a, b and c
+
+                           a + (b + c) = (a + b) + c
+          Subtraction           Is 6 − (9 − 5) = (6 − 9) − 5 ?      — — — — —
+           Multiplication         Is 2×[7×( −3)] = (2×7) × (−3) ?     — — — — —
+          Division           10 ÷ ⎡÷                                               [10 ÷ 2] ÷ ( −5 ) ?                                     ⎣ 2   (                              − 5) ⎤=⎦
+                                        − 2     − 5
+                        10 ÷ ⎡                                       10 ÷   = 10 ×   = − 25 — — — — —                                      ⎣ 2 ÷ ( −                                   5 ) ⎤⎦ =                                            5      2
+                   Now
+                                        10               5                                             (10 ÷ 2) ÷( −5) =  ÷ ( −5) = 5 ÷ ( −5) =   =−1
+                                     2              −5
+                         Thus 10 ÷ ⎡                                            10 ÷ 2 ] ÷ ( − 5 )                                            ⎣ 2 ÷ ( −                                       5 ) ⎤⎦ ≠ [
+
+        (iii)  Rational numbers
+
+      (a)   Addition     TELANGANA
+                                                  2    1
+         Let us consider  three  rational numbers      , 5,   and  verify whether
+                                                  7    2
+
+         2   ⎡     ⎛ 1 ⎞ ⎤   ⎡ ⎛ 2    ⎞ ⎤  ⎛ 1 ⎞          +  5 +      =    + 5  +                 ⎢     ⎜   ⎟ ⎥   ⎢ ⎜      ⎟ ⎥  ⎜  ⎟         7   ⎣     ⎝ 2 ⎠ ⎦   ⎣ ⎝ 7    ⎠ ⎦  ⎝ 2 ⎠
+
+                  2    ⎡     ⎛ 1 ⎞ ⎤  2   ⎡   1 ⎤   2  ⎡ 10 + 1 ⎤   4 + 77   81
+          L.H.S. =   + ⎢ 5 + ⎜   ⎟ ⎥ =  + ⎢ 5 +  ⎥ =  + ⎢      ⎥ =      =                  7    ⎣     ⎝ 2 ⎠ ⎦  7   ⎣   2 ⎦   7  ⎣  2  ⎦    14    14
+
+                       ⎡ ⎛ 2    ⎞ ⎤   ⎛ 1 ⎞   ⎡ ⎛ 2 + 35 ⎞ ⎤  1   37   1   74 + 7   81                   + 5                        +                             =                                       +  =   +  =      =                                    ⎜  ⎟          R.H.S. =  ⎢ ⎜                               ⎟ ⎥                                            ⎢ ⎜       ⎟ ⎥                       ⎣ ⎝ 7    ⎠ ⎦   ⎝ 2 ⎠   ⎣ ⎝  7   ⎠ ⎦  2   7   2    14    14SCERT
+                             L.H.S. = R.H.S.
+                1    ⎡ 3  4 ⎤        ⎡ 1   3 ⎤  ⎛ 4 ⎞
+           Find      + ⎢  +   ⎥  and ⎢  +   ⎥ + ⎜  ⎟                2    ⎣ 7  3 ⎦        ⎣ 2   7 ⎦  ⎝ 3 ⎠
+         Are the two sums equal?
+          Take some more rational numbers and verify the associativity.
+
+                                        Free Distribution by T.S. Government 2020-21

@@ -1,0 +1,57 @@
+        8     Mathematics VIII
+
+
+      (d)   Division
+
+          Consider two rational numbers.
+          2   7
+                      ,
+          3   8
+              2    7       2   8    16
+         Then   ÷    =     ×   =    which is a rational number
+              3    8       3   7    21
+         Check this for two more example.
+          5         5    2        5  1    5
+           ÷ 2  =   ÷     =    ×   =
+         7         7    1        7   2    14
+           2    6
+         −  ÷    = __________   = _________ = __________
+           3   11
+             17      3    17
+         3 ÷     =    ÷    = ________ = ________ = ________
+             13      1    13
+
+    From all the above, we observe that when we divide two        5
+                                       Why    is not defined ?
+      rational numbers,we get a rational number. Now can we        0
+                                         Do the division 5 ÷ 0 = ?
+     say that the closure property holds good for rational numbers?                                                Or  0) 5 (?
+     Let us check the following: 0, 5 are rational numbers and   Can you complete the division?
+                                               What is the quotient? You may     5
+          is not defined. Thus collection of Rational numbers Q is    have observed that multiplication
+     0                                                            of any number with ‘0’, the
+     not closed with respect to division.                                                           product will be ‘0’.
+       If we exclude zero from Q then the resulting collection is    Thus division is not possible, with     TELANGANA
+     closed under division.                                       ‘0’ as divisor.
+
+                 Try These
+                           If we exclude zero from the set of integers then is it closed under division?
+
+
+              Do This
+                   Fill the blanks in the table
+
+                                                  Closure property under
+                Numbers
+                                      Addition     Subtraction   Multiplication     DivisionSCERT
+                Natural numbers         Yes     —     —     —
+
+             Whole numbers    —     —     —        No
+
+                 Integers       —          Yes     —     —
+
+                Rational numbers    —     —          Yes     —
+
+
+
+                        Free Distribution by T.S. Government 2020-21

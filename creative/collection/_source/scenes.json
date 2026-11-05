@@ -1,0 +1,183 @@
+[
+  {
+    "title": "ASTAR",
+    "accent": "LEARNING WHEN\nINFRASTRUCTURE FAILS",
+    "dark": true,
+    "kind": "cover",
+    "body": "",
+    "image": null,
+    "cols": null,
+    "notes": "Introduce ASTAR as an offline-first learning initiative. Software is available as a prototype; the solar device is a concept."
+  },
+  {
+    "title": "WHEN INFRASTRUCTURE",
+    "accent": "FAILS",
+    "dark": true,
+    "kind": "text",
+    "body": "ASTAR is designed to complement teachers and education services when access is disrupted.",
+    "image": null,
+    "cols": [
+      [
+        "01 / POWER",
+        "Charging becomes uncertain"
+      ],
+      [
+        "02 / CONNECTIVITY",
+        "Online lessons become harder to reach"
+      ],
+      [
+        "03 / CONTINUITY",
+        "Students need a dependable fallback"
+      ]
+    ],
+    "notes": ""
+  },
+  {
+    "title": "INTRODUCING",
+    "accent": "ASTAR",
+    "dark": true,
+    "kind": "text",
+    "body": "",
+    "image": null,
+    "cols": [
+      [
+        "DEVICE",
+        "Proposed low-power solar hardware"
+      ],
+      [
+        "SOFTWARE",
+        "Offline reading, practice and progress"
+      ],
+      [
+        "FORGE",
+        "Content preparation, review and export"
+      ]
+    ],
+    "notes": "Forge is the name used here for the existing textbook studio and its content-preparation role."
+  },
+  {
+    "title": "THE PRODUCT",
+    "accent": "CONCEPT",
+    "dark": false,
+    "kind": "image",
+    "body": "E-paper reading. Physical controls. Local storage. Solar charging.",
+    "image": "D:\\My_Command_Center\\ASTAR\\PRODUCT\\Device Renders\\ASTAR-assembled-concept.png",
+    "cols": null,
+    "notes": "Generated assembled visualization based on the supplied exploded view. Component compatibility, dimensions and runtime remain to be validated."
+  },
+  {
+    "title": "DESIGNED AS",
+    "accent": "A SYSTEM",
+    "dark": false,
+    "kind": "image",
+    "body": "An intended modular architecture for learning continuity.",
+    "image": "D:\\My_Command_Center\\ASTAR\\PRODUCT\\Exploded View\\ASTAR-reference-exploded.png",
+    "cols": null,
+    "notes": "Exploded reference image extracted unchanged from user-supplied ASTAR.pdf. Illustration is not a verified engineering drawing."
+  },
+  {
+    "title": "A WHOLE TEXTBOOK.",
+    "accent": "ONE LESSON AT A TIME.",
+    "dark": true,
+    "kind": "image",
+    "body": "Prepare material locally, then export an offline course.",
+    "image": "D:\\My_Command_Center\\ASTAR\\SOFTWARE\\Screenshots\\01-library.png",
+    "cols": null,
+    "notes": "Screenshot captured from the current software build."
+  },
+  {
+    "title": "REVIEW WHAT",
+    "accent": "NEEDS ATTENTION",
+    "dark": false,
+    "kind": "image",
+    "body": "Ranked conversion checks. Source-page comparison. An exclusion log.",
+    "image": "D:\\My_Command_Center\\ASTAR\\SOFTWARE\\Screenshots\\10-triage.png",
+    "cols": null,
+    "notes": "Automatic checks help prioritise likely extraction issues. They are not a guarantee of teaching accuracy."
+  },
+  {
+    "title": "READ. PRACTISE.",
+    "accent": "KEEP LEARNING.",
+    "dark": true,
+    "kind": "image",
+    "body": "Numbered navigation, monochrome lessons and locally saved progress.",
+    "image": "D:\\My_Command_Center\\ASTAR\\SOFTWARE\\Screenshots\\09-lesson-circles.png",
+    "cols": null,
+    "notes": "Existing software. Teacher-authored MCQs use explicit answer keys. Long answers use notebooks. Hardware firmware is future work."
+  },
+  {
+    "title": "WHO IS",
+    "accent": "ASTAR FOR?",
+    "dark": false,
+    "kind": "text",
+    "body": "",
+    "image": null,
+    "cols": [
+      [
+        "LEARNERS",
+        "Students aged 10-18 in disrupted or underserved settings"
+      ],
+      [
+        "DEPLOYMENT",
+        "Education organisations and institutional pilots"
+      ],
+      [
+        "SUPPORT",
+        "Facilitators, reviewed content and local updates"
+      ]
+    ],
+    "notes": "These are intended users and prospective partner types, not signed partnerships."
+  },
+  {
+    "title": "A TARGET PRICE",
+    "accent": "TO VALIDATE",
+    "dark": true,
+    "kind": "text",
+    "body": "Unvalidated estimates. Confirm components, battery, charging, testing, logistics and support costs.",
+    "image": null,
+    "cols": [
+      [
+        "INR 3,700",
+        "Founder target unit cost"
+      ],
+      [
+        "INR 4,700",
+        "Founder target selling price"
+      ]
+    ],
+    "notes": "Targets from ASTAR.pdf, not current supplier quotations. No margin claim is made."
+  },
+  {
+    "title": "THE NEXT",
+    "accent": "MILESTONE",
+    "dark": false,
+    "kind": "text",
+    "body": "",
+    "image": null,
+    "cols": [
+      [
+        "01 / HARDWARE",
+        "Measure power use and charging performance"
+      ],
+      [
+        "02 / CONTENT",
+        "Review a small teaching package"
+      ],
+      [
+        "03 / PILOT",
+        "Test with learners and refine deployment"
+      ]
+    ],
+    "notes": ""
+  },
+  {
+    "title": "LEARNING SHOULD",
+    "accent": "CONTINUE.",
+    "dark": true,
+    "kind": "close",
+    "body": "Seeking technical mentors and education collaborators.\nastarco0@gmail.com",
+    "image": null,
+    "cols": null,
+    "notes": "End with the specific collaboration request and invite a demo."
+  }
+]

@@ -1,0 +1,57 @@
+                                                                             Rational Numbers    25
+
+
+                         5
+    Example 6:   Represent   on the number line.
+                         8
+     Solution:
+                      0                             5                1
+                                                                   8                                                                                      ⎛                                                                                           ⎞                                                             =                 5                               8                  ⎜                                                                                           ⎟
+                            is a proper fraction, it lies between 0 and 1.      ⎝  8 ⎠
+                 8
+               So divide the number line between 0 and 1 into 8 equal parts.
+                                          5
+                Then mark 5th part (numerator)   counting from 0 is the required rational
+                                          8
+                       5
+                number    .
+                       8
+                         29
+    Example 7:   Represent    on the number line.
+                         6
+                                                          29
+     Solution:
+                                                          6
+
+                               4                                5
+                 29    5      5
+                 = 4  = 4 +    . This lies between 4 and 5 on the number line
+                 6     6      6
+                  Divide the number line between 4 and 5 into 6 (denominator) equal parts.
+               Mark 5th part (numerator of rational part) counting from 4.
+
+                                                         5    5  29
+                  This is the place of the required rational number 4 +  = 4  =      .
+                                                                 6     TELANGANA6    6
+
+                 Try These
+
+                    Write the rational number for the points labelled with letters, on the
+                  number line
+                       A           B   C       D   E         F
+
+                                (i)     0          2     3                6                9                                     ?                  ?     ?            ?     ?            ?
+                           5          5     5                5                5
+                               S   R       Q         P
+                                  (ii)     − 7     ?     ?     -1     ?   − 2     ?     0
+                            4                           4SCERT
+
+
+          Do This
+
+                           13
+                       (i)    Represent −   on the number line.
+                            5
+
+
+                                        Free Distribution by T.S. Government 2020-21

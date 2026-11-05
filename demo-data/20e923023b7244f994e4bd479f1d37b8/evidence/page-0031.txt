@@ -1,0 +1,52 @@
+                                                                             Rational Numbers    19
+
+
+                 2   ⎛ 1   3 ⎞   2   ⎛ 2 + 3 ⎞   2  5   10   1
+         L.H.S =  × ⎜  +   ⎟ =  × ⎜      ⎟ =  ×  =   =
+                 5   ⎝ 2   4 ⎠   5    ⎝  4  ⎠   5   4   20   2
+
+                 2    ⎛ 1 ⎞   2    ⎛ 3 ⎞   2    6   4 + 6   10   1
+         R.H.S =   × ⎜  ⎟ +   × ⎜  ⎟ =   +   =     =   =
+                 5    ⎝ 2 ⎠   5    ⎝ 4 ⎠  10   20    20    20   2
+
+                            L.H.S = R.H.S
+
+                     2   ⎛ 1   3 ⎞    ⎛ 2 ⎞⎛ 1 ⎞   ⎛ 2 ⎞⎛ 3 ⎞
+         Thus         × ⎜  +   ⎟ = ⎜  ⎟⎜  ⎟ + ⎜  ⎟⎜  ⎟
+                     5   ⎝ 2   4 ⎠    ⎝ 5 ⎠⎝ 2 ⎠   ⎝ 5 ⎠⎝ 4 ⎠
+
+     This property is called the distributive law of multiplication over addition.
+
+   Now verify the following                                                        Try these: find using distributivity
+       2    ⎛ 1   3 ⎞   2    ⎛ 1 ⎞  2    ⎛ 3 ⎞               ⎧ 7  ⎛ − 3 ⎞ ⎫  ⎧ 7   9 ⎫
+      Is   × ⎜  −   ⎟ =   × ⎜  ⎟ −  × ⎜  ⎟               (1) ⎨ × ⎜    ⎟ ⎬ + ⎨  ×   ⎬       5    ⎝ 2   4 ⎠   5    ⎝ 2 ⎠  5    ⎝ 4 ⎠               ⎩ 5  ⎝ 10 ⎠ ⎭  ⎩ 5  10 ⎭
+
+    What do you observe? Is L.H.S = R.H.S?                 ⎧ 9     ⎫  ⎧ 9        ⎫                                                                  (2) ⎨   × 3 ⎬ + ⎨  × ( − 19 ) ⎬
+     This property is called the distributive law over subtraction.      ⎩16    ⎭  ⎩16       ⎭
+
+     Take some more rational numbers and verify the distributive
+     property
+
+     For all rational numbers a, b and c
+
+   We can say-          a (b + c) = ab + ac TELANGANA
+          a (b − c) = ab – ac
+
+          Do These
+
+            Complete the following table.
+
+                                                Additive properties
+              Numbers
+                                Closure Commutative   Associative   Existence    Existence
+
+                                                                       of Identity   of InverseSCERTRational Numbers   Yes   — —   — —   — —   — —
+
+                Integers           Yes   — —   — —   — —   — —
+
+            Whole Numbers — —  — —   — —       Yes      No
+
+               Natural Numbers   Yes   — —   — —   — —   — —
+
+
+                                        Free Distribution by T.S. Government 2020-21

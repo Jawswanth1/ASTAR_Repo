@@ -1,0 +1,50 @@
+        2     Mathematics VIII
+
+                                         3     − 7  − 5
+     The numbers used in these temperature are       , 1 ,         ,         . What can be call these
+                                         2      3    3
+     numbers? These numbers include both positive and negative fractional numbers and can be
+             p
+      written as     , where q ≠ o and p can be positive or negative.             q
+     Let us see some more such numbers.
+          3  7  − 10   3   2013
+                       ,      ,          ,                     ,  .................          4  9   17  −,2  2014
+                                           p
+     The numbers which are expressed in the form of      , where p and q are integers and q ≠ o, are                                           q
+      called ‘Rational Numbers’ and the set of all rational numbers is denoted by ‘Q’. These are also
+      called Quotient numbers.
+
+     Observe the following
+                                   p                5   10   15
+    We can express any natural number in     , form, for ex. 5 as    or    or      .........
+                                   q                1    2    3
+
+                                               0   0   0
+      Similarly we can also express the whole number 0 as    or   or     .........
+                                               1   2   5
+                               p              − 3   − 6
+    We can also express an integer in   form, for ex. –3 as    or
+                               q                1    2
+                      p      15  0    − 6
+     That is all the above   forms      ,   and     are rational numbers. So all integers are also
+                      q       3  5     2     TELANGANA
+      included in rational numbers. From the above observation we can conclude that all natural numbers,
+       all whole numbers and all integers are rational numbers.
+          Do This
+
+                                                   1           1  − 33    4
+               Consider the following collection of numbers 1,     , −2, 0.5, 4    ,          , 0,     ,
+                                                   2           2    7     7
+
+                    2
+               22, −5,       , 0.125. Write these numbers under the appropriate category.
+                    19
+            [A number can be written in more than one collection]
+                        (i)    Natural numbers   ___________________________________SCERT
+                          (ii)   Whole numbers    ___________________________________
+                           (iii)   Integers          ___________________________________
+                    (iv)   Rational numbers   ___________________________________
+            Would you leave out any of the given numbers from rational numbers?
+                  Is every natural number, whole number and integer a rational number ?
+
+                        Free Distribution by T.S. Government 2020-21

@@ -1,0 +1,1 @@
+{"passed": true, "sourcePages": 374, "embeddedImages": 1245, "packageBytes": 84719840, "objectCount": 17659, "checks": ["full-book export", "all referenced PNGs decoded and verified on import", "source evidence hash unchanged", "all structured objects and relationships unchanged"]}

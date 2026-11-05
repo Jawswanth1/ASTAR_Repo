@@ -1,0 +1,54 @@
+                                                                             Rational Numbers    31
+
+
+    When we try to express some rational numbers in decimal form by division method, we find that
+     the division never comes to an end.This is due to the reason that in the division process the
+     remainder starts repeating after a certain number of steps.In these cases in the quotient a digit or
+      set of digits repeats in the same order.
+          For example 0.33333------.= 0.3
+
+           0.12757575---------= 0.1275
+
+          123.121121121121----------= 123.121
+
+           5.678888-----------= 5.678  etc.
+
+    Such decimals are called non-terminating and repeating decimal or non-terminating recurring
+      decimals.
+
+         The set of digits which repeats in non-terminating recurring decimal is called period.
+
+          For example
+
+           In 0.3333 ...... = 0. 3 the period is 3
+
+           In 0.12757575 .... = 0.1275 the period is 75
+
+         The number of digits in a period of non-terminating recurring decimal is called periodicity.
+
+          For example
+
+           In 0.3333 ...... = 0. 3 the periodicity is 1     TELANGANA
+
+           In 0.12757575 .... = 0.1275 the periodicity is 2
+
+         The period of 0.23143143143....... = _______ periodicity = _______
+
+         The period of 125.6788989 ......... = _______ periodicity = _______
+
+     Think and Discuss:
+
+      1.    Express the following in decimal form.
+
+              7    3   23  5  17 22
+                 (i)           ,       ,         ,     ,       ,SCERT5    4   10  3   6  7
+
+                  (ii)   Which of the above are terminating and which are non-terminating decimals ?
+
+                   (iii)   Write the denominators of above rational numbers as the product of primes.
+
+              (iv)   If the denominators of the above simplest rational numbers has no prime divisors
+     other than 2 and 5 what do you observe?
+
+
+                                        Free Distribution by T.S. Government 2020-21

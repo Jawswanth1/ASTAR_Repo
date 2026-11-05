@@ -1,0 +1,54 @@
+                                                                             Rational Numbers    17
+
+
+    You will find that when you multiply any rational number with ‘1’, you will get the same rational
+    number as the product.
+
+   We say that ‘1’ is the multiplicative identity for rational numbers
+
+    What is the multiplicative identity for integers and whole numbers?
+
+   We often use the identity properties without realizing that we are using them.
+
+                           15
+     For example when we write     in the simplest form we may do the following.
+                           50
+
+     15   3 × 5    3   5    3       3
+       =      =   ×   =    × 1 =
+     50   10 × 5   10   5   10      10
+
+                     3     3
+    When we write that   ×1 =      . Here we used the identity property of multiplication.
+                     10     10
+
+     1.2.6 Existence of Inverse
+
+                (i)  Additive inverse:
+            3 + (−3) = 0      and   −3 + 3 = 0
+            −5 + 5 = 0      and   5 + (−5) = ______
+
+             2                            2
+             + ?  = 0      and   ____ +   = 0
+             3                            3     TELANGANA
+                 ⎛  1 ⎞                           ⎛  1 ⎞
+                 ⎜ −  ⎟ + ? = 0     and    ? + ⎜ −  ⎟ = 0                 ⎝  2 ⎠                           ⎝  2 ⎠
+
+    Here −3 and 3 are called the additive inverses of each other because on adding them we get
+     the sum ‘0’ i.e. the additive identity. Any two numbers whose sum is ‘0’ are called the additive
+     inverses of each other. In general if a represents any rational number then a + (−a) = 0 and (−
+     a) + a = 0.
+
+    Then ‘a’, ‘−a’ are additive inverse of each other.
+    The additive inverse of 0 is only 0 as 0 + 0 = 0.SCERT
+                (ii) Multiplicative inverse:
+                                  2
+           By which rational number     is multiplied to get the product 1 ?
+                                  7
+
+                       2  7          7   2
+         We can see   ×  = 1  and   ×  = 1
+                       7  2          2  7
+
+
+                                        Free Distribution by T.S. Government 2020-21

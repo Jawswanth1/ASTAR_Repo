@@ -1,0 +1,49 @@
+                                                                             Rational Numbers    9
+
+
+      1.2.2.    Commutative Property:                The commutative property states
+                                                                  that the change in the order of two
+     Let us recall the commutative property with different   numbers on binary operation does
+                                                           not change the result.     operations for both whole numbers and Integers.
+                                                            a + b = b + a
+                                                            a × b = b × a
+     Complete the following table.                           here binary operation could be any
+                                               one of the four fundamental
+                                                          operations i.e., +, −, ×, ÷
+
+       (i)   Whole numbers
+
+             Operation           Example                      Remark
+
+           Addition              2, 3 are whole numbers       Addition is commutative
+
+                        2+3 = 5 and 3 + 2 = 5        in W.
+               ∴ 2 + 3 = 3 + 2
+
+           Subtraction           Is 3 – 2 equal to 2 –3?        Subtraction is not commutative
+
+            Multiplication         ------                         ------
+           Division           4 ÷ 2 = ?  2 ÷ 4 = ?           -------
+                                      Is  4 ÷ 2 = 2 ÷ 4 ?     TELANGANA
+        (ii)   Integers
+
+            Operation         Example                  Remark
+
+           Addition             ---                          Addition is commutative
+
+                                                                 in Integers.
+
+           Subtraction          2, 3 are integers                        .......
+                         2 − (3) = ?; (3) − 2 = ?
+                                  Is 2 − (3) = (3) − 2 = ?
+
+            Multiplication            ... ... ...                                     ... ... ...SCERT
+           Division                    ... ... ...                       Division is not
+
+                                                    Commutative in Integers
+
+
+
+
+
+                                        Free Distribution by T.S. Government 2020-21

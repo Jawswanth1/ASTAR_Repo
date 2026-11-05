@@ -1,0 +1,131 @@
+[
+  {
+    "action": "move",
+    "source": "D:\\My_Command_Center\\ASTAR",
+    "target": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\collection"
+  },
+  {
+    "action": "move",
+    "source": "D:\\My_Command_Center\\ASTAR-Finals",
+    "target": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\finals"
+  },
+  {
+    "action": "move",
+    "source": "D:\\My_Command_Center\\ASTAR_LAUNCH",
+    "target": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\README.md",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\README.md",
+    "sha256": "b3d3513804874c043d1b29eb6797ed95e484dc8aa21e7c65c977ceb2e33674e5"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\requirements.txt",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\requirements.txt",
+    "sha256": "41abe003c1293902ebb1c328c352bcd87975fd1cf2ea669fb3829c94d64cbb7a"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\setup.bat",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\setup.bat",
+    "sha256": "e91110100c6e09affb052ad33e86224f4cbdbd6a8343ae917d9cde723180e824"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\start.bat",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\start.bat",
+    "sha256": "88b5e09b557823d5583426863eb92f6742db38a443f3a2ec692ed833710b85ca"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\astar_app\\analysis.py",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\astar_app\\analysis.py",
+    "sha256": "91975689d56d0876652d7cc75e9fb0dd0b3e31b0dc83f509236a63426389a95c"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\astar_app\\__init__.py",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\astar_app\\__init__.py",
+    "sha256": "5e091bf531acd3e11403d1d3615f002f720d31e1cd435b8b855dc3378eb7bba4"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\astar_app\\__pycache__\\analysis.cpython-311.pyc",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\astar_app\\__pycache__\\analysis.cpython-311.pyc",
+    "sha256": "3c1e5ed790ea0b02cabecf89f8b54b50d4470931c5b44d38c863a8bfc892983c"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\astar_app\\__pycache__\\storage.cpython-311.pyc",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\astar_app\\__pycache__\\storage.cpython-311.pyc",
+    "sha256": "898b3dfac73703ae376a212791f4c36507c5fd8c9a333517b342b3a810fd7713"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\astar_app\\__pycache__\\__init__.cpython-311.pyc",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\astar_app\\__pycache__\\__init__.cpython-311.pyc",
+    "sha256": "10dfb47c306adaf5078cb6e2dbda5725ccb7e1700efeb743ce3eb3060c1d5a40"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\static\\index.html",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\static\\index.html",
+    "sha256": "b27bd9b28516547d1e0d2978c949e261420951f20ad5704b85a1d0ce30fb3ca1"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\static\\logo.png",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\static\\logo.png",
+    "sha256": "325c715dabb583078ea458891e738e62e6bb15f71f37a65f6e62053251342749"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\static\\reader.html",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\static\\reader.html",
+    "sha256": "c15420fb80494c40286105d6bf22e52c5b8fc9cb16d7bebb8a0ca7340a6e6241"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\tests\\browser.cjs",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\tests\\browser.cjs",
+    "sha256": "0fa98e410c94a5bfe8671b6f1aeb4c2c115174dfe2187c998bca1b482ea01cb0"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\tests\\quality-browser.cjs",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\tests\\quality-browser.cjs",
+    "sha256": "a69a9d1c3db2993a3669be15351d46a0ced710c904a025d21fc32c5d73b8f513"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\tests\\test_analysis.py",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\tests\\test_analysis.py",
+    "sha256": "4e808c1566b0ef7438b15c8908dc02aa273766d224ee8c52d06c7bef2cf8bff1"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\tests\\test_conversion.py",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\tests\\test_conversion.py",
+    "sha256": "5ecabb2603cd29560580c8976d8064f162e2aa697a872c58370d28a1f075db22"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\tests\\__pycache__\\test_analysis.cpython-311.pyc",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\tests\\__pycache__\\test_analysis.cpython-311.pyc",
+    "sha256": "3496456fd0cd1fa91395027248138aa576b0fc6200b69e580cdb42748aa18ae5"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\tests\\__pycache__\\test_conversion.cpython-311.pyc",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\tests\\__pycache__\\test_conversion.cpython-311.pyc",
+    "sha256": "2756e12331fac8d5802cd29086e8d5bb0b55f6e32887803990c3589344db4801"
+  },
+  {
+    "action": "remove-identical-copy",
+    "path": "D:\\My_Command_Center\\02 - Projects\\astar\\creative\\launch-incomplete\\SOFTWARE\\Application\\tools\\refresh_render.py",
+    "retained": "D:\\My_Command_Center\\02 - Projects\\astar\\tools\\refresh_render.py",
+    "sha256": "1beaf4b9a5a24364442ed27a76d2060d2822fbde818d9d3acf5df691b729fc4e"
+  }
+]

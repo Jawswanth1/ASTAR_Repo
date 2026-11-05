@@ -1,0 +1,59 @@
+                                                                             Rational Numbers    27
+
+
+    Another Method :
+
+                                            5     9
+    Can you write hundred rational numbers between    and     in mean method?
+                                           10     10
+
+    You may feel difficult because of the lengthy process.
+
+     Here is another method for you.
+
+                       5   6   7   8   9
+       We know that    <   <   <   <
+                      10  10  10  10  10
+
+
+                     5     6     7     8     9
+                    10    10    10    10    10
+                                              5     9
+    Here we wrote only three rational numbers between    and       .
+                                              10    10
+
+                     5    50      9    90
+    But if we consider   =     and    =
+                    10   100     10   100
+
+                                  50      90
+   Now the rational numbers between     and      are
+                                 100     100
+
+     5    50    51    52     53         89   90    9
+       =    <    <     <     < ....... <    <    =
+     10   100   100   100    100        100  100   10     TELANGANA
+                 5   50   51   52   53                 88   89   9   90
+                 =                                        =
+                10  100  100  100  100                100  100  10  100
+
+
+      Similarly, when we consider
+          5    500       9    900
+           =      and    =
+         10   1000      10   1000
+
+        5    500    501    502    503           899    900    9
+    So    =     <     <     <         <............. <     <     =
+        10   1000   1000   1000   1000          1000   1000   10SCERT
+               5   500  501  502  503                897  898  899  900  9
+               =
+              10  1000 1000 1000 1000               1000 1000 1000 1000 10
+
+     In this way we can go on inserting required number of rational numbers.
+
+
+
+
+
+                                        Free Distribution by T.S. Government 2020-21
