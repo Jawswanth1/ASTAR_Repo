@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import threading
 import uuid
@@ -22,6 +23,7 @@ from .epaper import menu_frame, number_line_frame
 ROOT = Path(__file__).resolve().parent.parent
 STATIC = ROOT / "static"
 DATA = ROOT / "data"
+LEARNING_ONLY = os.environ.get("ASTAR_LEARNING_ONLY") == "1"
 JOBS = {}
 LOCK = threading.Lock()
 POOL = ThreadPoolExecutor(max_workers=1)
@@ -76,6 +78,17 @@ def render_reader(course):
 class Handler(BaseHTTPRequestHandler):
     server_version = "ASTAR/0.2"
 
+    def learning_route(self, method, path):
+        if method == "GET":
+            return (path in ("/", "/learn", "/learn/", "/learn/index.html",
+                             "/learn/app.js", "/learn/style.css") or
+                    re.fullmatch(r"/api/learn/(books|jobs)/[a-f0-9]{32}", path) is not None or
+                    re.fullmatch(r"/learn/books/[a-f0-9]{32}/.+", path) is not None)
+        if method == "POST":
+            return (path == "/api/learn/upload" or
+                    re.fullmatch(r"/api/learn/build/[a-f0-9]{32}", path) is not None)
+        return False
+
     def log_message(self, format, *args):
         # Keep the console useful during polling.
         if "/api/jobs/" not in str(args[0]):
@@ -109,16 +122,24 @@ class Handler(BaseHTTPRequestHandler):
     def local_request(self):
         host = self.headers.get("Host", "")
         expected = {f"127.0.0.1:{self.server.server_port}", f"localhost:{self.server.server_port}"}
-        if host not in expected:
-            raise ValueError("Use the local ASTAR address.")
+        if self.server.server_address[0] in ("127.0.0.1", "::1"):
+            if host not in expected:
+                raise ValueError("Use the local ASTAR address.")
+        elif not host or any(char in host for char in "\r\n/\\"):
+            raise ValueError("A valid Host header is required.")
         origin = self.headers.get("Origin")
-        if origin and origin not in {"http://" + h for h in expected}:
-            raise ValueError("Cross-origin requests are not allowed.")
+        if origin:
+            parsed_origin = urlparse(origin)
+            if (parsed_origin.scheme not in ("http", "https") or
+                    parsed_origin.netloc.casefold() != host.casefold()):
+                raise ValueError("Cross-origin requests are not allowed.")
 
     def do_GET(self):
         try:
             self.local_request()
             path = urlparse(self.path).path
+            if LEARNING_ONLY and not self.learning_route("GET", path):
+                return self.json({"error": "Not found"}, 404)
             match=re.fullmatch(r'/api/learn/(books|jobs)/([a-f0-9]{32})',path)
             if match:
                 if match[1]=='books':return self.json(learn.get(match[2]))
@@ -215,6 +236,8 @@ class Handler(BaseHTTPRequestHandler):
         try:
             self.local_request()
             parsed = urlparse(self.path)
+            if LEARNING_ONLY and not self.learning_route("POST", parsed.path):
+                return self.json({"error": "Not found"}, 404)
             if parsed.path=='/api/learn/upload':
                 query={k:v[0] for k,v in parse_qs(parsed.query).items()}
                 body=self.body(100*1024*1024)
@@ -312,6 +335,8 @@ class Handler(BaseHTTPRequestHandler):
     def do_PUT(self):
         try:
             self.local_request()
+            if LEARNING_ONLY:
+                return self.json({"error": "Not found"}, 404)
             match = re.fullmatch(r"/api/courses/([a-f0-9]{32})", self.path)
             if not match:
                 return self.json({"error": "Not found"}, 404)
@@ -336,15 +361,21 @@ class Handler(BaseHTTPRequestHandler):
 
 def main():
     global DATA
-    parser = argparse.ArgumentParser(description="ASTAR local textbook studio")
-    parser.add_argument("--port", type=int, default=8765)
-    parser.add_argument("--data-dir", type=Path, default=DATA)
+    parser = argparse.ArgumentParser(description="ASTAR textbook learning app")
+    parser.add_argument("--host", default=os.environ.get("ASTAR_HOST", "127.0.0.1"))
+    parser.add_argument("--port", type=int, default=int(os.environ.get("PORT", "8765")))
+    parser.add_argument("--data-dir", type=Path, default=Path(os.environ.get("ASTAR_DATA_DIR", DATA)))
     args = parser.parse_args()
     DATA = args.data_dir.resolve()
     DATA.mkdir(parents=True, exist_ok=True)
-    server = ThreadingHTTPServer(("127.0.0.1", args.port), Handler)
-    print(f"ASTAR is running at http://127.0.0.1:{server.server_port}", flush=True)
-    print(f"Books stay on this computer: {DATA}", flush=True)
+    learn.DATA = DATA / "learning-data"
+    demo.DEMO_DATA = DATA / "demo-data"
+    learn.DATA.mkdir(parents=True, exist_ok=True)
+    if not LEARNING_ONLY:
+        demo.DEMO_DATA.mkdir(parents=True, exist_ok=True)
+    server = ThreadingHTTPServer((args.host, args.port), Handler)
+    print(f"ASTAR is listening on {args.host}:{server.server_port}", flush=True)
+    print(f"ASTAR data directory: {DATA}", flush=True)
     try:
         server.serve_forever()
     except KeyboardInterrupt:

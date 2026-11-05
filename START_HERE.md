@@ -2,6 +2,21 @@
 
 Double-click **start.bat**. The current app opens at **http://127.0.0.1:8790/**. Keep its terminal open while using ASTAR.
 
+## Put ASTAR online
+
+ASTAR can run in Docker on a host that supports containers. Build and start it
+with `docker compose up --build -d`, then open `http://localhost:8080` to check
+it. The named `astar_data` volume keeps uploaded books and prepared data across
+container restarts. On a hosting provider, deploy this repository using its
+Dockerfile support and configure persistent storage at `/data`; the app reads
+the provider's `PORT` environment variable. The deployed container serves only
+the current learning app; older studio and demo pages are not included.
+
+The app does not have user accounts or sign-in. Restrict access using your
+hosting provider's access controls before sharing the URL. Without that
+restriction, anyone who can reach the site can upload books and use the app.
+Back up the persistent data volume.
+
 1. Start on the ASTAR screen and choose **Begin**.
 2. Upload your textbook PDF and choose **Prepare Chapter 1**.
 3. Use the numbered chapter circles and the on-screen left/right buttons. Only Chapter 1 is available.

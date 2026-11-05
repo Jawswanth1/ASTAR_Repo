@@ -1,0 +1,11 @@
+services:
+  astar:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - astar_data:/data
+    restart: unless-stopped
+
+volumes:
+  astar_data:

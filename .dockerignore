@@ -1,0 +1,13 @@
+.git
+.venv
+__pycache__
+**/__pycache__
+data
+learning-data
+demo-data
+persist
+test-results
+tests
+benchmarks
+creative
+*.pdf
