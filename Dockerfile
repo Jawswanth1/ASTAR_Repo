@@ -16,6 +16,5 @@ COPY static/learn ./static/learn
 
 RUN mkdir -p /data
 EXPOSE 8080
-VOLUME ["/data"]
 
 CMD ["python", "-m", "astar_app.server"]
